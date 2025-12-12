@@ -28,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
