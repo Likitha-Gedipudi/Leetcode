@@ -49,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
