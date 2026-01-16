@@ -64,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [3451-find-invalid-ip-addresses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
