@@ -67,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1683-invalid-tweets) |
 | [3451-find-invalid-ip-addresses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
