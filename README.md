@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3451-find-invalid-ip-addresses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
