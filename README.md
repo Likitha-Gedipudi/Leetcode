@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
