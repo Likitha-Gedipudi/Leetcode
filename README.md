@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1934-confirmation-rate](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
