@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-find-students-who-improved](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3482-analyze-organization-hierarchy](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3482-analyze-organization-hierarchy) |
+| [3554-find-category-recommendation-pairs](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## String
 |  |
 | ------- |
