@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-valid-emails](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3436-find-valid-emails) |
 | [3451-find-invalid-ip-addresses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3482-analyze-organization-hierarchy](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3482-analyze-organization-hierarchy) |
+| [3497-analyze-subscription-conversion](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3497-analyze-subscription-conversion) |
 | [3554-find-category-recommendation-pairs](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## String
 |  |
