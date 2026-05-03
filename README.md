@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Likitha-Gedipudi/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
